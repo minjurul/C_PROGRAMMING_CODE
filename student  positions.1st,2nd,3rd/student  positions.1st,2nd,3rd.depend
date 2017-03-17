@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479433984 source:d:\c programming\c lab exam\student  positions.1st,2nd,3rd\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
